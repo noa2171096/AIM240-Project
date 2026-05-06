@@ -1,0 +1,1 @@
+py -m pip install h5py huggingface_hub numpy tqdm wandb torch torch_geometric matplotlib einops datasets

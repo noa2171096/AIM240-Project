@@ -1,0 +1,11 @@
+**CHANGES**
+    *prev model was 40M params after skip connections, consumed
+    too much vram
+    *adjusted model to have less resolutions, 3 levels
+    *bottleneck graph has 16 b 16 b 16 nodes, not 8^3
+    *graph layer has 4 GATS instead of 8^3
+    *9M params now
+
+*Model seems to capture overall shape better! struggling escaping extrememum
+
+

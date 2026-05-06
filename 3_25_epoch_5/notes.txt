@@ -1,0 +1,3 @@
+* Even after 5 epochs, seemed unusually static
+* Realized no underlying structure being captured likely due to 
+    missing skip connections

@@ -1,0 +1,3 @@
+* Added skip connections every block in decoder
+* seemingly better train, val loss?
+* num_workers =0, so went very slow
