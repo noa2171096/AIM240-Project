@@ -1,0 +1,3 @@
+# MHD Surrogate Diffusion Model
+
+## See 'FullPlanningCapstone" Doc for more info on project and planning...
